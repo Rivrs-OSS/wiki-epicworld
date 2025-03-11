@@ -6,7 +6,7 @@
 
 * [‼️ Game Rules](important-information/game-rules.md)
 * [‼️ Discord Rules](important-information/discord-rules.md)
-* [‼️ Contributing ](CONTRIBUTING.MD)
+* [‼️ Contributing ](CONTRIBUTING.Md)
 * [❔ Commands](important-information/commands.md)
 
 ## 🎮 GAMEPLAY
