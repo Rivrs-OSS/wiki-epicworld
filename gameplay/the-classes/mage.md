@@ -54,9 +54,9 @@ Summon an explosive meteor that damages and burns targets, leaving an area ablaz
 
 Create a small earthquake, damaging and stunning targets around you.
 
-* **Cooldown** : 5s
-* **Mana** : 38
-* **Damage** : 24
+* <mark style="color:green;">**Cooldown**</mark> : 5s
+* <mark style="color:green;">**Mana**</mark> : 38
+* <mark style="color:green;">**Damage**</mark> : 24
 
 #### <mark style="color:green;">Level</mark> <mark style="color:green;"></mark><mark style="color:green;">**40: Infernal Chain**</mark> <a href="#niveau-40-chaine-infernal" id="niveau-40-chaine-infernal"></a>
 

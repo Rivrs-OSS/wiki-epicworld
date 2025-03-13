@@ -2,11 +2,11 @@
 description: Find here all the information concerning the Clerk class.
 ---
 
-# ⛪ Clerk
+# ⛪ Cleric
 
 Master the sacred arts to support your allies and deal divine damage to your enemies, using light and healing to guide your team to victory.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-03 124814.png" alt=""><figcaption><p><strong>Clerk Class Stats Overview</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-03 124814.png" alt=""><figcaption><p><strong>Cleric Class Stats Overview</strong></p></figcaption></figure>
 
 ## <mark style="color:purple;">Skills</mark>
 
@@ -26,7 +26,7 @@ You summon a guardian angel to fly by your side, growing brighter with each use 
 * <mark style="color:purple;">**Mana**</mark>**&#x20;:** 0
 * <mark style="color:purple;">**Damage**</mark>**&#x20;:** 0
 
-#### <mark style="color:purple;">Level</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**10: Light Wave**</mark> <a href="#niveau-10-vague-lumineuse" id="niveau-10-vague-lumineuse"></a>
+#### <mark style="color:purple;">Level</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**10: Luminous Wave**</mark> <a href="#niveau-10-vague-lumineuse" id="niveau-10-vague-lumineuse"></a>
 
 Project a cone of light in front of you, dealing damage and slightly knocking back enemies.
 
@@ -34,7 +34,7 @@ Project a cone of light in front of you, dealing damage and slightly knocking ba
 * <mark style="color:purple;">**Mana**</mark>**&#x20;:** 10
 * <mark style="color:purple;">**Damage**</mark>**&#x20;:** 9
 
-#### <mark style="color:purple;">Level</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**15: Blessing of the White Lantern**</mark> <a href="#niveau-15-benediction-de-la-lanterne-blanche" id="niveau-15-benediction-de-la-lanterne-blanche"></a>
+#### <mark style="color:purple;">Level</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**15: Blessing**</mark> <a href="#niveau-15-benediction-de-la-lanterne-blanche" id="niveau-15-benediction-de-la-lanterne-blanche"></a>
 
 Summon a holy lantern above you, weakening enemies and strengthening allies within its radius.
 
