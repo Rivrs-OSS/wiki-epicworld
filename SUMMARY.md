@@ -27,6 +27,7 @@
   * [⛪ Clerk](gameplay/the-classes/clerk.md)
   * [🥋 Martial Artist](gameplay/the-classes/martial-artist.md)
   * [🎇 Artificer](gameplay/the-classes/artificer.md)
+  * [🎇 Archmage](gameplay/the-classes/archmage.md)
 * [🏛️ Dungeons](gameplay/dungeons.md)
 * [💰 The Shop](gameplay/the-shop.md)
 * [👷 The Jobs](gameplay/the-jobs.md)
