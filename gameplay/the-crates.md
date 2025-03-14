@@ -18,37 +18,34 @@ The Vote Crate key is obtained by voting for the server with the command <mark s
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-12-03 164617.png" alt=""><figcaption><p><strong>Vote Crates Rewards</strong></p></figcaption></figure>
 
-\
-
-
 | **Reward**                                                                                                                   | **Chance**                                   |
 | ---------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| <mark style="color:green;">**Adventurer's Sword**</mark>                                                                     | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Adventurer's Pickaxe**</mark>                                                                   | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Adventurer's Hoe**</mark>                                                                       | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Adventurer's Fishing Rod**</mark>                                                               | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Adventurer's Axe**</mark>                                                                       | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**5,000 💰**</mark>                                                                               | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**10,000 💰**</mark>                                                                              | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**10x Gems**</mark>                                                                               | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Random Spawner**</mark>                                                                         | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Random Booster**</mark> (10%) (30m)                                                             | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Teleportation Stone**</mark>                                                                    | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**EXP Random Job**</mark> (x2,000)                                                                | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Minecraft EXP**</mark> (x1.395)                                                                 | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Fly Feather**</mark> (10m)                                                                      | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Fly Feather**</mark> (30m)                                                                      | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Random Adventure Scroll**</mark>                                                                | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Apple Candy**</mark> (x2)                                                                       | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Mending Book**</mark>                                                                           | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Funnel**</mark>                                                                                 | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Netherite Fragement**</mark> (x2)                                                               | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Shulker Shell**</mark>                                                                          | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:green;">**Tyro Hat**</mark>                                                                               | <mark style="color:green;">**4.08%**</mark>  |
-| <mark style="color:purple;">**Cosmetic Key**</mark>                                                                          | <mark style="color:purple;">**4.08%**</mark> |
+| <mark style="color:green;">**Adventurer's Sword**</mark>                                                                     | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Adventurer's Pickaxe**</mark>                                                                   | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Adventurer's Hoe**</mark>                                                                       | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Adventurer's Fishing Rod**</mark>                                                               | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Adventurer's Axe**</mark>                                                                       | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**5,000 💰**</mark>                                                                               | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**10,000 💰**</mark>                                                                              | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**10x Gems**</mark>                                                                               | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Random Spawner**</mark>                                                                         | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Random Booster**</mark> (10%) (30m)                                                             | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Teleportation Stone**</mark>                                                                    | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**EXP Random Job**</mark> (x2,000)                                                                | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Minecraft EXP**</mark> (x1.395)                                                                 | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Fly Feather**</mark> (10m)                                                                      | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Fly Feather**</mark> (30m)                                                                      | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Random Adventure Scroll**</mark>                                                                | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Apple Candy**</mark> (x2)                                                                       | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Random Enchantment Book**</mark>                                                                           | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Funnel**</mark>                                                                                 | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Netherite Fragement**</mark> (x2)                                                               | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Shulker Shell**</mark>                                                                          | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:green;">**Tyro Hat**</mark>                                                                               | <mark style="color:green;">**4.18%**</mark>  |
+| <mark style="color:purple;">**Cosmetic Key**</mark>                                                                          | <mark style="color:purple;">**1%**</mark> |
 | <mark style="color:green;">**Emerald Key**</mark>                                                                            | <mark style="color:green;">**1%**</mark>     |
 | <mark style="color:blue;">**Premium**</mark>[ <mark style="color:blue;">👑</mark>](https://emojipedia.org/fr/couronne) (24h) | <mark style="color:blue;">**1%**</mark>      |
-| <mark style="color:red;">**Billy Rat**</mark>                                                                                | <mark style="color:red;">**0.05%**</mark>    |
+| <mark style="color:red;">**Billy Rat**</mark>                                                                                | <mark style="color:red;">**5%**</mark>    |
 
 
 
@@ -93,13 +90,13 @@ The Emerald Crate key can be obtained by purchasing it in the <mark style="color
 | <mark style="color:green;">**Emerald Fishing Rod**</mark>           | <mark style="color:green;">**5.55%**</mark>  |
 | <mark style="color:green;">**Emerald Shovel**</mark>                | <mark style="color:green;">**5.55%**</mark>  |
 | <mark style="color:green;">**Emerald Scepter**</mark>               | <mark style="color:green;">**5.55%**</mark>  |
-| <mark style="color:green;">**Familiar Egg**</mark>                  | <mark style="color:green;">**5.55%**</mark>  |
+| <mark style="color:green;">**Emerald Pet Egg**</mark>                  | <mark style="color:green;">**5.55%**</mark>  |
 | <mark style="color:green;">**300,000 💰**</mark>                    | <mark style="color:green;">**5.55%**</mark>  |
 | <mark style="color:green;">**Random Spawner**</mark>                | <mark style="color:green;">**5.55%**</mark>  |
 | <mark style="color:green;">**Random Booster**</mark> (25%) (1h)     | <mark style="color:green;">**5.55%**</mark>  |
-| <mark style="color:yellow;">**Random Class Card**</mark>            | <mark style="color:yellow;">**5.55%**</mark> |
+| <mark style="color:yellow;">**Random Class Card (Rare)**</mark>            | <mark style="color:yellow;">**5.55%**</mark> |
 | <mark style="color:yellow;">**Teleportation Stone**</mark>          | <mark style="color:yellow;">**5.55%**</mark> |
-| <mark style="color:blue;">**Hard Adventure Scrol**</mark>**l** (x3) | <mark style="color:blue;">**5.55%**</mark>   |
+| <mark style="color:blue;">**Hard Adventure Scroll**</mark> (x3)     | <mark style="color:blue;">**5.55%**</mark>   |
 | <mark style="color:blue;">**Blueberry Candy**</mark> (x3)           | <mark style="color:blue;">**5.55%**</mark>   |
 | <mark style="color:green;">**Emerald Key**</mark> (x2)              | <mark style="color:green;">**5.55%**</mark>  |
 | <mark style="color:red;">**Ruby Key**</mark>                        | <mark style="color:red;">**5.55%**</mark>    |
@@ -119,12 +116,12 @@ The Ruby Crate Key can be obtained by purchasing it in the <mark style="color:gr
 | <mark style="color:red;">**Ruby Fishing Rod**</mark>                                                     | <mark style="color:red;">**5.82%**</mark>    |
 | <mark style="color:red;">**Ruby Shovel**</mark>                                                          | <mark style="color:red;">**5.82%**</mark>    |
 | <mark style="color:red;">**Ruby Hammer**</mark>                                                          | <mark style="color:red;">**5.82%**</mark>    |
-| <mark style="color:red;">**Familiar Egg**</mark>                                                         | <mark style="color:red;">**5.82%**</mark>    |
+| <mark style="color:red;">**Ruby Pet Egg**</mark>                                                         | <mark style="color:red;">**5.82%**</mark>    |
 | <mark style="color:red;">**Ruby Chest**</mark>                                                           | <mark style="color:red;">**5.82%**</mark>    |
 | <mark style="color:red;">**800,000 💰**</mark>                                                           | <mark style="color:red;">**5.82%**</mark>    |
 | <mark style="color:red;">**Random Spawner**</mark>                                                       | <mark style="color:red;">**5.82%**</mark>    |
 | <mark style="color:red;">**Random Booster**</mark> (50%) (1h)                                            | <mark style="color:red;">**5.82%**</mark>    |
-| <mark style="color:blue;">**Random Class Cards**</mark>                                                  | <mark style="color:blue;">**5.82%**</mark>   |
+| <mark style="color:blue;">**Random Class Cards (Epic)**</mark>                                                  | <mark style="color:blue;">**5.82%**</mark>   |
 | <mark style="color:blue;">**Teleportation Stone**</mark>                                                 | <mark style="color:blue;">**5.82%**</mark>   |
 | <mark style="color:purple;">**Expert Adventure Scroll**</mark> (x3)                                      | <mark style="color:purple;">**5.82%**</mark> |
 | <mark style="color:purple;">**Grape Candy**</mark> (x3)                                                  | <mark style="color:purple;">**5.82%**</mark> |
@@ -134,5 +131,9 @@ The Ruby Crate Key can be obtained by purchasing it in the <mark style="color:gr
 
 
 {% hint style="success" %}
-Try your luck and open crates on EpicWorld !
+Try your luck and open crates on EpicWorld! Fantastic prizes await.
 {% endhint %}
+
+## <mark style="color:green;">Monthly Crate</mark>
+
+Every month there is a rotating monthly crate. These crates contain custom armor sets with unique stats, a cosmetic, and various other items such as: Custom Tools, Random Boosters, Random Class Cards, Random Spawners, Orange Candy, Pet Eggs, and Adventure Scrolls.

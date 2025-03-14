@@ -53,7 +53,7 @@ Once activated, boosters remain active for a set period, allowing players to max
 ## <mark style="color:green;">Information on the Different Boosts</mark>
 
 {% hint style="info" %}
-<mark style="color:green;">**Companion Boosts:**</mark> Companion boosts stack when multiple companions are active at the same time.
+<mark style="color:green;">**Companion Boosts:**</mark> Companion boosts from pets stack when multiple companions are active at the same time.
 
 For example, if you have two active companions, the boosts they provide will be combined to enhance your benefits.\
 
@@ -92,8 +92,14 @@ Only the most powerful boost you have activated will be considered to enhance yo
 You will not lose your progress when leaving a profession!
 {% endhint %}
 
-* <mark style="color:green;">**`/jobs stats {Usernane}`**</mark> - Display your used profession levels or those of another player.
+* <mark style="color:green;">**`/jobs stats {name}`**</mark> - Display your used profession levels or those of another player.
 
 {% hint style="info" %}
 Let's go! Start enriching yourself by progressing in your professions right now!
 {% endhint %}
+
+## <mark style="color:green;">Job Rewards</mark>
+
+Each job has various rewards available to claim as you level. You can obtain Gems, Pets, Adventure Scrolls, Random Class Cards, and more!
+
+Spellsmithing also unlocks the Stonecutter at level 45, allowing players to make Statues for their /collections or their builds!

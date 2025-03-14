@@ -26,17 +26,17 @@ The choice of professions is random, but some rules prevail: no profession can b
 
 ## <mark style="color:green;">**Rewards**</mark>
 
-Each week, the top three players in exploiting professions are rewarded.
+Each week, the top three players are rewarded.
 
-* <mark style="color:green;">**1st**</mark> : 750 Gems + Job Tag ( <mark style="color:yellow;">**Gold**</mark> )
-* <mark style="color:green;">**2nd**</mark> : 500 Gems + Job Tag ( **Silver** )
-* <mark style="color:green;">**3rd**</mark> : 250 Gems + Job Tag ( <mark style="color:orange;">**Bronze**</mark> )
+* <mark style="color:green;">**1st**</mark> : 750 Gems + Tag 'Top Farm' ( **Gold** )
+* <mark style="color:green;">**2nd**</mark> : 500 Gems + Tag 'Top Farm' ( **Silver** )
+* <mark style="color:green;">**3rd**</mark> : 250 Gems + Tag 'Top Farm' ( **Bronze** )
 
 Job tags change every week, providing an opportunity for different players to be featured.
 
 ## <mark style="color:green;">Premium Pass</mark>
 
-The Pass offers rewards to all players, while those with a premium subscription can access exclusive additional rewards
+The Pass offers rewards to all players, while those with a premium subscription can access exclusive additional rewards. To see these rewards, check them out in-game under /pass!
 
 
 
