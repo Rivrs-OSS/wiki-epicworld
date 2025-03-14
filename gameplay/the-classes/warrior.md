@@ -22,7 +22,7 @@ Perform a wide range of slashing and piercing attacks.
 
 #### <mark style="color:green;">**Level 5: Carnage**</mark> <a href="#niveau-5-carnage" id="niveau-5-carnage"></a>
 
-Your speed and defense increase when taking damage when your health is below 30% of your max HP.
+Your speed and defense increase when your health is below 30% of your max HP.
 
 * <mark style="color:green;">**Cooldown**</mark>**&#x20;:** 0s
 * <mark style="color:green;">**Mana**</mark>**&#x20;:** 0

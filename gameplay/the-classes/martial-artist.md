@@ -18,7 +18,7 @@ Hit your target 2 times quickly.
 * <mark style="color:purple;">**Mana**</mark>**&#x20;:** 0
 * <mark style="color:purple;">**Damage**</mark>**&#x20;:** 10
 
-#### <mark style="color:purple;">Level</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**5: Escape**</mark> <a href="#niveau-5-evasion" id="niveau-5-evasion"></a>
+#### <mark style="color:purple;">Level</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**5: Evasion**</mark> <a href="#niveau-5-evasion" id="niveau-5-evasion"></a>
 
 You have a 30% chance to dodge an attack.
 
@@ -42,7 +42,7 @@ Leap upwards and perform an uppercut attack, taking your targets into the air wi
 * <mark style="color:purple;">**Mana**</mark>**&#x20;:** 125
 * <mark style="color:purple;">**Damage**</mark>**&#x20;:** 30
 
-#### <mark style="color:purple;">Level</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**20: Fatal Strike**</mark> <a href="#niveau-20-frappe-fatale" id="niveau-20-frappe-fatale"></a>
+#### <mark style="color:purple;">Level</mark> <mark style="color:purple;"></mark><mark style="color:purple;">**20: Deadly Strike**</mark> <a href="#niveau-20-frappe-fatale" id="niveau-20-frappe-fatale"></a>
 
 Summon a spiritual hand that crushes the ground and stuns targets hit.
 

@@ -6,11 +6,11 @@ description: Find here all the information concerning the Archer class.
 
 The Archer is a class that specializes in ranged attacks, using bows and arrows to deal damage. With a variety of skills, the Archer can not only deal consistent damage, but also control the terrain and weaken his enemies.
 
-<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-03 123408.png" alt=""><figcaption><p>Archer <strong>Class Stats Overview</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-03 123408.png" alt=""><figcaption><p><strong>Archer Class Stats Overview</strong></p></figcaption></figure>
 
 ## <mark style="color:green;">Skills</mark>
 
-#### <mark style="color:green;">Level 1: Rapid Fire</mark> <a href="#niveau-1-tir-rapide" id="niveau-1-tir-rapide"></a>
+#### <mark style="color:green;">Level 1: Quick Shot</mark> <a href="#niveau-1-tir-rapide" id="niveau-1-tir-rapide"></a>
 
 Shoot an arrow.
 
@@ -18,7 +18,7 @@ Shoot an arrow.
 * <mark style="color:green;">**Mana**</mark>**&#x20;:** 0
 * <mark style="color:green;">**Damage**</mark>**&#x20;:** 19
 
-#### <mark style="color:green;">Level</mark> <mark style="color:green;"></mark><mark style="color:green;">**5: Sniper Aim**</mark> <a href="#niveau-5-visee-du-sniper" id="niveau-5-visee-du-sniper"></a>
+#### <mark style="color:green;">Level</mark> <mark style="color:green;"></mark><mark style="color:green;">**5: Sniper's Aim**</mark> <a href="#niveau-5-visee-du-sniper" id="niveau-5-visee-du-sniper"></a>
 
 The fourth shot of your arrow slows the target for a short time. You also gain a speed boost for a short time.
 
@@ -26,7 +26,7 @@ The fourth shot of your arrow slows the target for a short time. You also gain a
 * <mark style="color:green;">**Mana**</mark>**&#x20;:** 0
 * <mark style="color:green;">**Damage**</mark>**&#x20;:** 0
 
-#### <mark style="color:green;">**Level 10: Retreat**</mark> <a href="#niveau-10-recul" id="niveau-10-recul"></a>
+#### <mark style="color:green;">**Level 10: Backstep**</mark> <a href="#niveau-10-recul" id="niveau-10-recul"></a>
 
 Jump back to create space between you and your target.
 
@@ -34,7 +34,7 @@ Jump back to create space between you and your target.
 * <mark style="color:green;">**Mana**</mark>**&#x20;:** 25
 * <mark style="color:green;">**Damage**</mark>**&#x20;:** 0
 
-#### <mark style="color:green;">**Level 15: Wind Blow**</mark> <a href="#niveau-15-coup-vent" id="niveau-15-coup-vent"></a>
+#### <mark style="color:green;">**Level 15: Windrazor Volley**</mark> <a href="#niveau-15-coup-vent" id="niveau-15-coup-vent"></a>
 
 Summon the spirit of a bow for a short time that fires volleys of arrows.
 
@@ -50,7 +50,7 @@ Throw a javelin, knocking back and stunning the target for a short time.
 * <mark style="color:green;">**Mana**</mark>**&#x20;:** 100
 * <mark style="color:green;">**Damage**</mark>**&#x20;:** 96
 
-#### <mark style="color:green;">**Level 30: Swarm of Arrows**</mark> <a href="#niveau-30-nuee-de-fleches" id="niveau-30-nuee-de-fleches"></a>
+#### <mark style="color:green;">**Level 30: Arrow Barrage**</mark> <a href="#niveau-30-nuee-de-fleches" id="niveau-30-nuee-de-fleches"></a>
 
 Summon the spirit of a bow that shoots multiple arrows at the target.
 

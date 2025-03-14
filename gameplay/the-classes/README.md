@@ -8,7 +8,7 @@ description: Find all the information about the classes here.
 
 ## <mark style="color:green;">General Information</mark>
 
-On the Evolucraft server, there are <mark style="color:green;">**14**</mark> distinct <mark style="color:green;">**classes**</mark>:
+On the Eterna server, there are <mark style="color:green;">**15**</mark> distinct <mark style="color:green;">**classes**</mark>:
 
 <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption><p><strong>Classes Overview</strong></p></figcaption></figure>
 
@@ -30,6 +30,7 @@ On the Evolucraft server, there are <mark style="color:green;">**14**</mark> dis
 * <mark style="color:blue;">**Shaman**</mark> : Users of supernatural powers, drawing strength from spirits, fearsome pagan mages.
 * <mark style="color:blue;">**Summoner**</mark> : Monster manipulators, controlling the beasts of this world to fight alongside them.
 * <mark style="color:blue;">**Monk**</mark> : Training relentlessly in remote lands, he combines relentless training with unyielding faith.
+* <mark style="color:blue;">**Archmage**</mark> : Manipulators of mystical forces, casting devastating spells, embodying the power of the arcane.
 
 ## <mark style="color:purple;">Legendary Classes</mark>
 
@@ -44,7 +45,7 @@ Classes are divided into three categories: Tanks, DPS, and Support.
 
 **Tanks:&#x20;**<mark style="color:green;">**Warrior**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Paladin**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Monk**</mark>
 
-**DPS:&#x20;**<mark style="color:green;">**Archer**</mark>**&#x20;/&#x20;**<mark style="color:green;">**Mage**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Assassin**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Elementalist**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Summoner**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Dragon Warrior**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artificer**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Martial Artist**</mark>
+**DPS:&#x20;**<mark style="color:green;">**Archer**</mark>**&#x20;/&#x20;**<mark style="color:green;">**Mage**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Assassin**</mark>**&#x20;/&#x20;**<mark style="color:yellow;">**Elementalist**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Summoner**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Archmage**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Dragon Warrior**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Artificer**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Martial Artist**</mark>
 
 **Support:&#x20;**<mark style="color:green;">**Bard**</mark>**&#x20;/&#x20;**<mark style="color:blue;">**Shaman**</mark>**&#x20;/&#x20;**<mark style="color:purple;">**Cleric**</mark>
 
@@ -57,21 +58,37 @@ Each class category benefits from unique bonuses:
 
 ### <mark style="color:green;">Rarity Based Progression</mark>
 
-In addition to these bonuses, classes have a progression based on their rarity. The <mark style="color:green;">**rarer**</mark> a class is , the more the bonuses <mark style="color:green;">**add up**</mark> , providing additional benefits in terms of health and defense.
+In addition to these bonuses, classes have a progression based on their rarity. The <mark style="color:green;">**rarer**</mark> a class is , the more the bonuses <mark style="color:green;">**add up**</mark> , providing a higher boost to your stats with each level.
 
-Skills also vary by class, <mark style="color:green;">**they**</mark> are available in your class menu.
+Skills also vary by class, and are available in your class menu.
 
 <figure><img src="../../.gitbook/assets/Capture d&#x27;écran 2024-12-03 122256.png" alt=""><figcaption><p><strong>Class Statistics Overview</strong></p></figcaption></figure>
 
+### <mark style="color:green;">Statistics</mark>
+
+But wait, what do each of these stats do? How does it help your gameplay? Lucky for you, we have a description of how each works:
+
+* <mark style="color:green;">**Health**</mark>**&#x20;:** Increases your total health.
+* <mark style="color:green;">**Defence**</mark>**&#x20;:** Reduces damage taken from enemy attacks.
+* <mark style="color:green;">**Regeneration**</mark>**&#x20;:** Increases the rate at which Health regenerates over time.
+* <mark style="color:green;">**Mana**</mark>**&#x20;:** Increases your total mana.
+* <mark style="color:green;">**Mana Regeneration**</mark>**&#x20;:** Increases the rate at which Mana regenerates over time.
+* <mark style="color:green;">**Speed**</mark>**&#x20;:** Increases your walking and running speed.
+* <mark style="color:green;">**Strength**</mark>**&#x20;:** Increases damage dealt by class basic attacks and skills.
+* <mark style="color:green;">**Resistance**</mark>**&#x20;:** Reduces fall damage taken.
+* <mark style="color:green;">**Critical Damage**</mark>**&#x20;:** Increases the damage dealt by a critical hit.
+* <mark style="color:green;">**Critical Rate**</mark>**&#x20;:** Increases your chance to deal a critical strike.
+* <mark style="color:green;">**Dexterity**</mark>**&#x20;:** Increases your weapon attack speed (does not reduce the time between class basic attacks).
+
 ## <mark style="color:green;">Unlocking Classes</mark>
 
-To unlock a class, you will need a card corresponding to the desired class, found in dungeons or obtainable through job rewards and certain quests.
+To unlock a class you will need a card corresponding to the desired class. These cards are found in dungeons, vote rewards (/vote, under 'Tiers'), daily rewards (/rewards), AFK'ing (/afk, one every 12 hours), in the Store (/store), and by opening crates in spawn (/spawn).
 
-To increase class levels, you must kill monsters in dungeons. Each monster killed gives you experience depending on the rarity of the dungeon you are performing.
+To increase your class level you must kill monsters in dungeons. Each monster killed gives you experience depending on the rarity of the dungeon.
 
 ## <mark style="color:green;">Unlocking Class Skills</mark>
 
-In each class menu, you will find a shop dedicated to purchasing new skills. To purchase these skills, you must meet prerequisites such as money, levels, and class cards.
+In each class menu, you will find a shop dedicated to purchasing new skills. To purchase these skills, you must meet prerequisites such as money, levels, and class cards. You may also review which skills your class unlocks by opening the class menu (/class) and selecting the 'Rewards' button in the bottom left.
 
 #### <mark style="color:green;">Common</mark>
 
@@ -81,7 +98,7 @@ In each class menu, you will find a shop dedicated to purchasing new skills. To 
 
 <table><thead><tr><th width="200" align="center">Skills</th><th align="center">Cards required</th><th align="center">Price</th></tr></thead><tbody><tr><td align="center"><mark style="color:yellow;"><strong>1</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>Getting the class</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>-</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>2</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>10</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>75 000</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>3</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>20</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>225 000</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>4</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>40</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>675 000</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>5</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>80</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>2 025 000</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>6</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>160</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>6 075 000</strong></mark></td></tr><tr><td align="center"><mark style="color:yellow;"><strong>7</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>320</strong></mark></td><td align="center"><mark style="color:yellow;"><strong>18 225 000</strong></mark></td></tr></tbody></table>
 
-<mark style="color:blue;">**Epic**</mark>
+#### <mark style="color:blue;">**Epic**</mark>
 
 |                 Skills                 |                     Cards required                     |                      Price                      |
 | :------------------------------------: | :----------------------------------------------------: | :---------------------------------------------: |
@@ -93,7 +110,7 @@ In each class menu, you will find a shop dedicated to purchasing new skills. To 
 | <mark style="color:blue;">**6**</mark> |         <mark style="color:blue;">**80**</mark>        |  <mark style="color:blue;">**8 100 000**</mark> |
 | <mark style="color:blue;">**7**</mark> |        <mark style="color:blue;">**160**</mark>        | <mark style="color:blue;">**24 300 000**</mark> |
 
-<mark style="color:purple;">**Legendary**</mark>
+#### <mark style="color:purple;">**Legendary**</mark>
 
 | Skills                                   | Cards required                                           | Price                                             |
 | ---------------------------------------- | -------------------------------------------------------- | ------------------------------------------------- |
@@ -105,12 +122,15 @@ In each class menu, you will find a shop dedicated to purchasing new skills. To 
 | <mark style="color:purple;">**6**</mark> | <mark style="color:purple;">**16**</mark>                | <mark style="color:purple;">**16 200 000**</mark> |
 | <mark style="color:purple;">**7**</mark> | <mark style="color:purple;">**32**</mark>                | <mark style="color:purple;">**48 600 000**</mark> |
 
-<mark style="color:green;">**Number of cards needed for random classes**</mark>
+#### <mark style="color:green;">**Random Class Card Packs**</mark>
 
-<table><thead><tr><th>Class</th><th width="259">Minimum number of cards</th><th>Maximum number of cards</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Common random class</strong></mark></td><td><mark style="color:green;"><strong>x15</strong></mark></td><td><mark style="color:green;"><strong>x30</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>Rare random class</strong></mark></td><td><mark style="color:yellow;"><strong>x5</strong></mark></td><td><mark style="color:yellow;"><strong>x10</strong></mark></td></tr><tr><td><mark style="color:blue;"><strong>Epic random class</strong></mark></td><td><mark style="color:blue;"><strong>x2</strong></mark></td><td><mark style="color:blue;"><strong>x4</strong></mark></td></tr><tr><td><mark style="color:purple;"><strong>Legendary random class</strong></mark></td><td><mark style="color:purple;"><strong>x1</strong></mark></td><td><mark style="color:purple;"><strong>x1</strong></mark></td></tr></tbody></table>
+<table><thead><tr><th>Rarity</th><th width="259">Minimum number of cards</th><th>Maximum number of cards</th></tr></thead><tbody><tr><td><mark style="color:green;"><strong>Common random class</strong></mark></td><td><mark style="color:green;"><strong>x15</strong></mark></td><td><mark style="color:green;"><strong>x30</strong></mark></td></tr><tr><td><mark style="color:yellow;"><strong>Rare random class</strong></mark></td><td><mark style="color:yellow;"><strong>x5</strong></mark></td><td><mark style="color:yellow;"><strong>x10</strong></mark></td></tr><tr><td><mark style="color:blue;"><strong>Epic random class</strong></mark></td><td><mark style="color:blue;"><strong>x2</strong></mark></td><td><mark style="color:blue;"><strong>x4</strong></mark></td></tr><tr><td><mark style="color:purple;"><strong>Legendary random class</strong></mark></td><td><mark style="color:purple;"><strong>x1</strong></mark></td><td><mark style="color:purple;"><strong>x1</strong></mark></td></tr></tbody></table>
 
-## <mark style="color:green;">Use of skills</mark>
+## <mark style="color:green;">Using skills</mark>
 
-In each class menu, you will find different attacks that you have. To equip a skill, click on an empty slot and then select your attack.
+In each class menu you will find different skills available to you. To equip a skill, click on an empty (or filled) skill slot in the bottom right. You may then select one of your unlocked skills to equip in that slot.
 
-When your attacks are equipped, you can use them. Left-click to do the class's basic attack, double-right-click to switch skills, and left-click + right-click to cast your skill.
+When your skills are equipped you can use them. 
+* Left-click to perform the class's basic attack. 
+* Double-right-click to switch skills. 
+* Right-click + left-click to cast your selected skill.
