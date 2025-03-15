@@ -12,7 +12,7 @@ EpicWorld is a survival/semi-RP server that evolves to provide an even more imme
 
 On EpicWorld, we retain the core elements of the previous version while adding an MMORPG dimension to enhance your adventure.&#x20;
 
-Dive into our world, built on the latest version of Minecraft, **1.21.3**, with an exclusive resource pack that introduces new features such as GUIs, supplies, monsters, and ores.
+Dive into our world, built on the latest version of Minecraft, **1.21.3**, with an exclusive resource pack that introduces new features such as GUIs, supplies, monsters, and custom gear.
 
 ## <mark style="color:green;">General lore</mark>&#x20;
 

@@ -6,9 +6,7 @@ description: Find here all the information concerning the different town levels.
 
 To increase the size of your town, you must increase its level.
 
-To advance to the next level, you must meet certain prerequisites.
-
-You can view these requirements in-game by accessing the via menu <mark style="color:green;">**`/town`**</mark> and clicking on the house icon.
+To advance to the next level, you must meet certain prerequisites. You can view these requirements in-game by accessing the via menu <mark style="color:green;">**`/town`**</mark> and clicking on the house icon.
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-12-03 173144.png" alt=""><figcaption><p><strong>Overview of the</strong><mark style="color:green;"><strong><code>/town</code></strong></mark></p></figcaption></figure>
 
@@ -23,7 +21,7 @@ You can view these requirements in-game by accessing the via menu <mark style="c
 * 25 chunks available
 * $25 per chunk of taxes
 
-<mark style="color:green;">**Claim cost:**</mark>
+<mark style="color:green;">**Claim cost per chunk:**</mark>
 
 * $500
 
@@ -39,7 +37,7 @@ You can view these requirements in-game by accessing the via menu <mark style="c
 * 50 chunks available
 * $50 per chunk of taxes
 
-<mark style="color:green;">**Claim cost:**</mark>
+<mark style="color:green;">**Claim cost per chunk:**</mark>
 
 * $1.000
 
@@ -55,7 +53,7 @@ You can view these requirements in-game by accessing the via menu <mark style="c
 * 100 chunks available
 * $75 per chunk of taxes
 
-<mark style="color:green;">**Claim cost:**</mark>
+<mark style="color:green;">**Claim cost per chunk:**</mark>
 
 * $1.500
 
@@ -71,7 +69,7 @@ You can view these requirements in-game by accessing the via menu <mark style="c
 * 200 chunks available
 * $125 per chunk of taxes
 
-<mark style="color:green;">**Claim cost:**</mark>
+<mark style="color:green;">**Claim cost per chunk:**</mark>
 
 * $2.500
 
@@ -89,7 +87,7 @@ You can view these requirements in-game by accessing the via menu <mark style="c
 * 300 chunks available
 * $200 per chunk of taxes
 
-<mark style="color:green;">**Claim cost:**</mark>
+<mark style="color:green;">**Claim cost per chunk:**</mark>
 
 * $4.000
 
@@ -105,7 +103,7 @@ You can view these requirements in-game by accessing the via menu <mark style="c
 * 400 chunks available
 * 325$ per chunk of taxes
 
-<mark style="color:green;">**Claim cost:**</mark>
+<mark style="color:green;">**Claim cost per chunk:**</mark>
 
 * $6.500
 
@@ -121,10 +119,10 @@ You can view these requirements in-game by accessing the via menu <mark style="c
 * 500 chunks available
 * $500 per chunk of taxes
 
-<mark style="color:green;">**Claim cost:**</mark>
+<mark style="color:green;">**Claim cost per chunk:**</mark>
 
 * $10.000
 
 {% hint style="success" %}
-Votre Your empire is waiting for you!
+Still don't have enough space? Remember that each player can join or create multiple towns! Additional towns are unlocked as you rank up, allowing you to create or join multiple Empire's.
 {% endhint %}
