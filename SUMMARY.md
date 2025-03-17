@@ -33,6 +33,7 @@
 * [👷 The Jobs](gameplay/the-jobs.md)
 * [📜 The Quests](gameplay/the-quests.md)
 * [🥚 The Pets](gameplay/the-pets.md)
+* [⚒️ The Machines](gameplay/the-machines.md)
 * [🎪 The Events](gameplay/the-events.md)
 * [🔝 The Pass](gameplay/the-pass.md)
 * [👑 The Ranks](gameplay/the-ranks.md)
