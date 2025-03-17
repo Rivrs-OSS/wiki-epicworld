@@ -37,6 +37,7 @@ description: >-
 * <mark style="color:green;">**/v claim**</mark>: Allows you to claim a chunk for your city.
 * <mark style="color:green;">**/v invite \[player]**</mark>: Allows you to invite a player to your city.
 * <mark style="color:green;">**/v ban \[player]**</mark>: Allows you to ban a player from your city.
+* <mark style="color:green;">**/v select**</mark>: Opens the town selection menu.
 
 The rest of the commands related to cities are available in the "Create a City" section of the EpicWorld Wiki.
 
@@ -47,13 +48,17 @@ The rest of the commands related to cities are available in the "Create a City" 
 * <mark style="color:green;">**/pwarp**</mark>: Opens the menu of teleportation points created by players in their city.
 * <mark style="color:green;">**/pwarp create \[warp name]**</mark>: Allows you to create a teleportation location for other players.
 * <mark style="color:green;">**/pwarp delete \[warp name]**</mark>: Allows you to delete the selected warp.
+* <mark style="color:green;">**/pwarp reset \[warp name]**</mark>: Updates the teleport location of your player warp to your current location.
 * <mark style="color:green;">**/pw cost set \[warp name] \[value]**</mark>: Allows you to set the teleportation price for your warp.
 * <mark style="color:green;">**/pw lock \[warp name]**</mark>: Allows you to open or close your warp to the public.
 * <mark style="color:green;">**/home \[home name]**</mark>: Teleports you to a previously saved location.
 * <mark style="color:green;">**/spawn**</mark>**:** Teleports the player to the spawn point.
-* <mark style="color:green;">**/back**</mark>**:** Returns to the previous position.
+* <mark style="color:green;">**/back**</mark>**:** Returns to the previous position. (<mark style="color:blue;">**Elite**</mark>, Paid Rank)
 * <mark style="color:green;">**/tpa \[player name]**</mark>: Sends a teleportation request to another player.
-* <mark style="color:green;">**/tpahere \[player name]**</mark>: Sends a teleportation request to bring a player to you.
+* <mark style="color:green;">**/tpahere \[player name]**</mark>: Sends a teleportation request to bring a player to you. (<mark style="color:orange;">**Hero**</mark>, Paid Rank)
+* <mark style="color:green;">**/tpaccept**</mark>: Accepts the teleport request sent to you.
+* <mark style="color:green;">**/tpadeny**</mark>: Denies the teleport request sent to you.
+* <mark style="color:green;">**/tpacancel**</mark>: Cancels the teleport request you sent to another player.
 * <mark style="color:green;">**/rtp**</mark>**:** Teleports the player randomly to a location on the map.
 * <mark style="color:green;">**/tp**</mark>: Teleports to another player or destination.
 * <mark style="color:green;">**/afk**</mark>: Teleports the player to the server's AFK zone.
@@ -71,8 +76,16 @@ The rest of the commands related to cities are available in the "Create a City" 
 * <mark style="color:green;">**/ah average (with an item in hand)**</mark>: Provides an average price for the item in your hand.
 * <mark style="color:green;">**/ah sell \[price] \[quantity]**</mark>: Allows you to sell the item in your hand by setting the price and quantity.
 * <mark style="color:green;">**/qsfinditems \[item]**</mark>: Lists all stores selling the desired item.
-* <mark style="color:green;">**/sell all**</mark>: Sells everything in your inventory.
-* <mark style="color:green;">**/sell hand**</mark>: Sells the item you have in your hand.
+* <mark style="color:green;">**/qs create [price]**</mark>: Creates a player shop for the item you are holding.
+* <mark style="color:green;">**/qs price [price]**</mark>: Adjusts the price of the item in your player shop.
+* <mark style="color:green;">**/qs suggestprice**</mark>: Use while facing a chest to obtain a list of the highest, and lowest, prices for other shops selling the same item.
+* <mark style="color:green;">**/qs sign**</mark>: Allows a player to choose a sign type for their shop.
+* <mark style="color:green;">**/qs staff [name]**</mark>: Allows you to add or remove staff from a player shop.
+* <mark style="color:green;">**/qs staffall [name]**</mark>: Allows you to add or remove staff from all of your player shops at once.
+* <mark style="color:green;">**/qs benefit add name [percentage%]**</mark>: Designates how you automatically split the profits from player shops with staff. 
+* <mark style="color:green;">**/qs benefit delete name [percentage%]**</mark>: Removes the automatic split from the player who is removed.
+* <mark style="color:green;">**/sell all**</mark>: Sells everything in your inventory. (<mark style="color:green;">**Renowned Rank**</mark>) (<mark style="color:purple;">**Legend**</mark>, Paid Rank)
+* <mark style="color:green;">**/sell hand**</mark>: Sells the item you have in your hand. (<mark style="color:green;">**Skilled Rank**</mark>) (<mark style="color:orange;">**Hero**</mark>, Paid Rank)
 * <mark style="color:green;">**/ah history**</mark>: Accesses the history of your sales and purchases.
 * <mark style="color:green;">**/ah search \[category]**</mark>: Opens the interface for the selected category.
 
@@ -96,32 +109,33 @@ The rest of the commands related to cities are available in the "Create a City" 
 
 ### <mark style="color:green;">Crafting & Services</mark>
 
-* <mark style="color:green;">**/fly**</mark>**:** Toggles flight on or off.
+* <mark style="color:green;">**/fly**</mark>**:** Toggles flight on or off within your town claims.
 * <mark style="color:green;">**/blacksmith**</mark>: Allows you to repair one or more specific items.
-* <mark style="color:green;">**/xpbottle**</mark>: Fills XP bottles.
-* <mark style="color:green;">**/craft**</mark>: Opens a crafting table.
+* <mark style="color:green;">**/xpbottle**</mark>: Fills XP bottles. (<mark style="color:green;">**Seasoned Rank**</mark>) (<mark style="color:blue;">**Elite**</mark>, Paid Rank)
+* <mark style="color:green;">**/craft**</mark>: Opens a crafting table. (<mark style="color:green;">**Fearless Rank**</mark>) (<mark style="color:orange;">**Hero**</mark>, Paid Rank)
 * <mark style="color:green;">**/trash**</mark>: Discards unwanted items.
-* <mark style="color:green;">**/anvil**</mark>: Opens an anvil.
-* <mark style="color:green;">**/grindstone**</mark>: Opens a grindstone.
-* <mark style="color:green;">**/stonecutter**</mark>: Opens a stonecutter machine.
-* <mark style="color:green;">**/smithingtable**</mark>: Opens a smithing table.
+* <mark style="color:green;">**/anvil**</mark>: Opens an anvil. (<mark style="color:blue;">**Elite**</mark>, Paid Rank)
+* <mark style="color:green;">**/stonecutter**</mark>: Opens a stonecutter machine. (<mark style="color:blue;">**Elite**</mark>, Paid Rank)
 * <mark style="color:green;">**/kits**</mark>: Accesses the available kits.
-* <mark style="color:green;">**/condense**</mark>: Condenses items into blocks.
-* <mark style="color:green;">**/ec**</mark>: Opens the ender chest.
-* <mark style="color:green;">**/furnace**</mark>: Opens the furnace interface.
-* <mark style="color:green;">**/repair**</mark>: Repairs the item in your hand.
-* <mark style="color:green;">**/repair all**</mark>: Repairs all items in your inventory.
+* <mark style="color:green;">**/condense**</mark>: Condenses items into blocks. (<mark style="color:green;">**Expert Rank**</mark>) (<mark style="color:blue;">**Elite**</mark>, Paid Rank)
+* <mark style="color:green;">**/ec**</mark>: Opens the ender chest. (<mark style="color:green;">**Pro Rank**</mark>) (<mark style="color:blue;">**Elite**</mark>, Paid Rank)
+* <mark style="color:green;">**/furnace**</mark>: Opens the furnace interface. (<mark style="color:green;">**Brilliant Rank**</mark>) (<mark style="color:blue;">**Elite**</mark>, Paid Rank)
+* <mark style="color:green;">**/furnace all**</mark>: Opens the furnace interface. (<mark style="color:purple;">**Legend**</mark>, Paid Rank)
+* <mark style="color:green;">**/repair**</mark>: Repairs the item in your hand. (<mark style="color:green;">**Pro Rank**</mark>) (<mark style="color:purple;">**Legend**</mark>, Paid Rank)
+* <mark style="color:green;">**/repair all**</mark>: Repairs all items in your inventory. (<mark style="color:green;">**Legendary Rank**</mark>) (<mark style="color:purple;">**Legend**</mark>, Paid Rank)
 
 ### <mark style="color:green;">Social & Customization</mark>
 
-* <mark style="color:green;">**/profil**</mark>: Displays the player's profile.
-* <mark style="color:green;">**/nick**</mark>: Changes the player's nickname.
-* <mark style="color:green;">**/feed**</mark>: Restores the hunger bar.
-* <mark style="color:green;">**/health**</mark>: Restores the health bar.
-* <mark style="color:green;">**/ptime**</mark>: Changes the player's local time.
-* <mark style="color:green;">**/pweather**</mark>: Changes the player's local weather.
+* <mark style="color:green;">**/profile**</mark>: Displays the player's profile.
+* <mark style="color:green;">**/nick**</mark>: Changes the player's nickname. (<mark style="color:purple;">**Legend**</mark>, Paid Rank)
+* <mark style="color:green;">**/feed**</mark>: Restores the hunger bar. (<mark style="color:green;">**Prodigious Rank**</mark>)
+* <mark style="color:green;">**/heal**</mark>: Restores the health bar. (<mark style="color:green;">**Renowned Rank**</mark>)
+* <mark style="color:green;">**/ptime**</mark>: Changes the player's local time. (<mark style="color:green;">**Experienced Rank**</mark>) (<mark style="color:orange;">**Hero**</mark>, Paid Rank)
+* <mark style="color:green;">**/pweather**</mark>: Changes the player's local weather. (<mark style="color:green;">**Brave Rank**</mark>) (<mark style="color:orange;">**Hero**</mark>, Paid Rank)
 
 ### <mark style="color:green;">Wedding</mark>
+
+All marriage commands are locked behind <mark style="color:green;">**Brave Rank**</mark>.
 
 * <mark style="color:green;">**/marry request \[player name]**</mark>: Propose a marriage request to a player.
 * <mark style="color:green;">**/marry sethome \[name]**</mark>: Sets the couple's home.
@@ -129,7 +143,7 @@ The rest of the commands related to cities are available in the "Create a City" 
 * <mark style="color:green;">**/marry divorce**</mark>: Divorces your partner.
 * <mark style="color:green;">**/marry accept**</mark>: Accepts a marriage proposal.
 * <mark style="color:green;">**/marry decline**</mark>: Declines a marriage proposal.
-* <mark style="color:green;">/marry msg \[message]</mark>: Sends a private message to your partner.
+* <mark style="color:green;">**/marry msg \[message]**</mark>: Sends a private message to your partner.
 * <mark style="color:green;">**/marry kiss**</mark>: Kisses your partner.
 
 {% hint style="warning" %}

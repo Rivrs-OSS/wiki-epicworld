@@ -23,17 +23,16 @@
   * [🕯️ Shaman](gameplay/the-classes/shaman.md)
   * [🤲 Summoner](gameplay/the-classes/summoner.md)
   * [🙇 Monk](gameplay/the-classes/monk.md)
+  * [🎇 Archmage](gameplay/the-classes/archmage.md)
   * [🐲 Dragon Warrior](gameplay/the-classes/dragon-warrior.md)
-  * [⛪ Clerk](gameplay/the-classes/clerk.md)
+  * [⛪ Cleric](gameplay/the-classes/cleric.md)
   * [🥋 Martial Artist](gameplay/the-classes/martial-artist.md)
   * [🎇 Artificer](gameplay/the-classes/artificer.md)
-  * [🎇 Archmage](gameplay/the-classes/archmage.md)
 * [🏛️ Dungeons](gameplay/dungeons.md)
 * [💰 The Shop](gameplay/the-shop.md)
 * [👷 The Jobs](gameplay/the-jobs.md)
 * [📜 The Quests](gameplay/the-quests.md)
 * [🥚 The Pets](gameplay/the-pets.md)
-* [⚒️ The Machines](gameplay/the-machines.md)
 * [🎪 The Events](gameplay/the-events.md)
 * [🔝 The Pass](gameplay/the-pass.md)
 * [👑 The Ranks](gameplay/the-ranks.md)
@@ -47,3 +46,7 @@
 * [🛠️ Town Levels](the-towns/town-levels.md)
 * [✂️ Sub-Areas](the-towns/sub-areas.md)
 * [👁️‍🗨️ The Warps](the-towns/the-warps.md)
+
+## GUIDES
+
+* [New Player Guide](gameplay/new-player-guide.md)
