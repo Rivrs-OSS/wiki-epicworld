@@ -1,5 +1,5 @@
 ---
-description: Find here all the information concerning the Archer class.
+description: Find all of the information concerning the Archer class here.
 ---
 
 # 🏹 Archer
@@ -10,7 +10,7 @@ The Archer is a class that specializes in ranged attacks, using bows and arrows 
 
 ## <mark style="color:green;">Skills</mark>
 
-#### <mark style="color:green;">Level 1: Quick Shot</mark> <a href="#niveau-1-tir-rapide" id="niveau-1-tir-rapide"></a>
+#### <mark style="color:green;">**Level 1: Quick Shot**</mark> <a href="#niveau-1-tir-rapide" id="niveau-1-tir-rapide"></a>
 
 Shoot an arrow.
 
@@ -18,7 +18,7 @@ Shoot an arrow.
 * <mark style="color:green;">**Mana**</mark>**&#x20;:** 0
 * <mark style="color:green;">**Damage**</mark>**&#x20;:** 19
 
-#### <mark style="color:green;">Level</mark> <mark style="color:green;"></mark><mark style="color:green;">**5: Sniper's Aim**</mark> <a href="#niveau-5-visee-du-sniper" id="niveau-5-visee-du-sniper"></a>
+#### <mark style="color:green;">**Level 5: Sniper's Aim**</mark> <a href="#niveau-5-visee-du-sniper" id="niveau-5-visee-du-sniper"></a>
 
 The fourth shot of your arrow slows the target for a short time. You also gain a speed boost for a short time.
 

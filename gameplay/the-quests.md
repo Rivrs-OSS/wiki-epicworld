@@ -18,7 +18,7 @@ There are three categories of quests:
 
 ## <mark style="color:green;">**Dungeon Quests**</mark>
 
-These quests gives you simple tasks in exchange for some EXP. You can only buy Common dungeon scrolls to have a 95% to win a Common teleportation stone and 5% for a rare one.&#x20;
+These quests gives you simple tasks in exchange for some EXP. You can only buy Common Dungeon Scrolls to have a 95% to win a common teleportation stone and 5% for a rare one.&#x20;
 
 
 
@@ -26,7 +26,7 @@ These quests gives you simple tasks in exchange for some EXP. You can only buy C
 
 This category includes quests available in 5 levels of difficulty:
 
-* <mark style="color:green;">**Facile**</mark>
+* <mark style="color:green;">**Easy**</mark>
 * <mark style="color:yellow;">**Advanced**</mark>
 * <mark style="color:blue;">**Hard**</mark>
 * <mark style="color:purple;">**Expert**</mark>
@@ -37,5 +37,5 @@ These quests can be obtained from crates, vote rewards, job rewards, the Rewards
 Completing these quests allows you to receive exclusive rewards, with each difficulty level offering different challenges and rewards that match your achievements.
 
 {% hint style="warning" %}
-May the spell be in your favor!
+May the odds be in your favor!
 {% endhint %}

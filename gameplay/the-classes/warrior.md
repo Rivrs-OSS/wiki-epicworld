@@ -1,5 +1,5 @@
 ---
-description: Find here all the information concerning the Warrior class.
+description: Find all of the information concerning the Warrior class here.
 ---
 
 # ⚔️ Warrior
@@ -60,7 +60,7 @@ Spin your sword, damaging nearby targets.
 * <mark style="color:green;">**Mana**</mark>**&#x20;:** 150
 * <mark style="color:green;">**Damage**</mark>**&#x20;:** 36
 
-#### <mark style="color:green;">Level</mark> <mark style="color:green;"></mark><mark style="color:green;">**40: Judgment**</mark> <a href="#niveau-40-jugement" id="niveau-40-jugement"></a>
+#### <mark style="color:green;">**Level 40: Judgment**</mark> <a href="#niveau-40-jugement" id="niveau-40-jugement"></a>
 
 Charge forward with a massive shield that damages and stuns targets. You leap forward and summon the Sword of Judgement, shattering the surface, damaging and stunning nearby targets.
 
