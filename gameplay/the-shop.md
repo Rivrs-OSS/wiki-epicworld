@@ -1,10 +1,10 @@
 ---
-description: Retrouvez ici toutes les informations concernant les différents commerces
+description: Find all of the information on Player Shops here.
 ---
 
 # 💰 The Shop
 
-## <mark style="color:green;">PlayerShop</mark>
+## <mark style="color:green;">PlayerShops</mark>
 
 ### <mark style="color:green;">Create a Sale Chest in your Town (player chest)</mark>
 
@@ -22,7 +22,7 @@ By following these steps, you can set up a sales system in your city, allowing o
 
 <figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-12-03 154643.png" alt=""><figcaption><p>Right-click preview on the sale chest</p></figcaption></figure>
 
-## <mark style="color:green;">Auction house</mark>
+## <mark style="color:green;">Auction House</mark>
 
 As for the server's custom items, they can be bought and sold through the Auction House interface. This interface is divided into several sections:
 

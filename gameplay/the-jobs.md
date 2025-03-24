@@ -102,4 +102,6 @@ Let's go! Start enriching yourself by progressing in your professions right now!
 
 Each job has various rewards available to claim as you level. You can obtain Gems, Pets, Adventure Scrolls, Random Class Cards, and more!
 
-Spellsmithing also unlocks the Stonecutter at level 45, allowing players to make Statues for their /collections or their builds!
+Spellsmithing unlocks the Stone Carver at level 45, allowing players to make Statues for their /collections or their builds!
+
+Lumberjack unlocks the Wood Machine at level 40, allowing players to adorn your city with an interior worthy of its name.

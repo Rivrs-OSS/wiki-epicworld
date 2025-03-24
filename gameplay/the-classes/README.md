@@ -1,5 +1,5 @@
 ---
-description: Find all the information about the classes here.
+description: Find all of the information about classes here.
 ---
 
 # ⚔️ The Classes

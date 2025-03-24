@@ -1,16 +1,20 @@
 ---
-description: Find all the information about the cash registers here.
+description: Find information about the crates here.
 ---
 
 # 🎁 The Crates
 
-To add a random aspect to your adventure, crates are available on EpicWorls. Some are available permanently while others are only ephemeral.
+To add a random aspect to your adventure, crates are available on EpicWorld. Some are available permanently.. while others are only ephemeral.
 
-To open these crates, you will need to go, equipped with a key, to the <mark style="color:green;">**`/spawn`**</mark>. The boxes will then be on your right
+To open these crates, you will need to go, equipped with a key, to the <mark style="color:green;">**`/spawn`**</mark>. Current crates will be located in the central area, while previous event crates are located in a house to the left of the auction house.
 
 <figure><img src="../.gitbook/assets/2024-12-03_16.45.40.png" alt=""><figcaption><p><strong>Overview of the crates</strong></p></figcaption></figure>
 
 There are different ways to obtain keys: by purchasing them in the store with Gems, by voting for the server, or by winning them in events.
+
+{% hint style="success" %}
+Contents within any of the Crates are subject to changes, updates, or rotations.
+{% endhint %}
 
 ## <mark style="color:green;">Voting crate</mark>
 
@@ -80,7 +84,7 @@ The Cosmetic Crate Key can be obtained by purchasing it in the <mark style="colo
 
 The Emerald Crate key can be obtained by purchasing it in the <mark style="color:green;">**`/shop`**</mark>for 500 Gems, or by participating in events.
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-12-03 164705.png" alt=""><figcaption><p>Emerald <strong>Crate Rewards</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-12-03 164705.png" alt=""><figcaption><p><strong>Emerald Crate Rewards</strong></p></figcaption></figure>
 
 | <mark style="color:green;">**Emerald Sword**</mark>                 | <mark style="color:green;">**5.55%**</mark>  |
 | ------------------------------------------------------------------- | -------------------------------------------- |
@@ -106,7 +110,7 @@ The Emerald Crate key can be obtained by purchasing it in the <mark style="color
 
 The Ruby Crate Key can be obtained by purchasing it in the <mark style="color:green;">**`/shop`**</mark>for 950 Gems.
 
-<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-12-03 164717.png" alt=""><figcaption><p><strong>Récompense de la Caisse Rubis</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d&#x27;écran 2024-12-03 164717.png" alt=""><figcaption><p><strong>Ruby Crate Rewards</strong></p></figcaption></figure>
 
 | <mark style="color:red;">**Ruby Sword**</mark>                                                           | <mark style="color:red;">**5.82%**</mark>    |
 | -------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
@@ -137,3 +141,29 @@ Try your luck and open crates on EpicWorld! Fantastic prizes await.
 ## <mark style="color:green;">Monthly Crate</mark>
 
 Every month there is a rotating monthly crate. These crates contain custom armor sets with unique stats, a cosmetic, and various other items such as: Custom Tools, Random Boosters, Random Class Cards, Random Spawners, Orange Candy, Pet Eggs, and Adventure Scrolls.
+
+### <mark style="color:darkgreen;">March Crate</mark>
+
+The March Crate Key can be obtained by purchasing it in the <mark style="color:green;">**`/shop`**</mark>for 500 Gems during the month of March.
+
+<figure><img src="../.gitbook\assets\March Crate.png" alt=""><figcaption><p><strong>March Crate Rewards</strong></p></figcaption></figure>
+
+| <mark style="color:darkgreen;">**March Helmet**</mark>                                                           | <mark style="color:darkgreen;">**5.55%**</mark>    |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| <mark style="color:darkgreen;">**March Chestplate**</mark>                                                         | <mark style="color:darkgreen;">**5.55%**</mark>    |
+| <mark style="color:darkgreen;">**March Leggings**</mark>                                                             | <mark style="color:darkgreen;">**5.55%**</mark>    |
+| <mark style="color:darkgreen;">**March Boots**</mark>                                                             | <mark style="color:darkgreen;">**5.55%**</mark>    |
+| <mark style="color:darkgreen;">**March Back Cosmetic**</mark>                                                     | <mark style="color:darkgreen;">**5.55%**</mark>    |
+| <mark style="color:darkgreen;">**March Sword**</mark>                                                          | <mark style="color:darkgreen;">**5.55%**</mark>    |
+| <mark style="color:darkgreen;">**March Pickaxe**</mark>                                                          | <mark style="color:darkgreen;">**5.55%**</mark>    |
+| <mark style="color:darkgreen;">**March Mace**</mark>                                                         | <mark style="color:darkgreen;">**5.55%**</mark>    |
+| <mark style="color:darkgreen;">**March Fishing Rod**</mark>                                                           | <mark style="color:darkgreen;">**5.55%**</mark>    |
+| <mark style="color:darkgreen;">**March Key x2**</mark>                                                           | <mark style="color:darkgreen;">**5.55%**</mark>    |
+| <mark style="color:blue;">**Teleportation Stone**</mark>                                                       | <mark style="color:blue;">**5.55%**</mark>    |
+| <mark style="color:purple;">**Expert Adventure Scroll**</mark> (50%) (1h)                                            | <mark style="color:purple;">**5.55%**</mark>    |
+| <mark style="color:yellow;">**Random Class Cards (Rare)**</mark>                                                  | <mark style="color:yellow;">**5.55%**</mark>   |
+| <mark style="color:yellow;">**Orange Candy x10**</mark>                                                 | <mark style="color:yellow;">**5.55%**</mark>   |
+| <mark style="color:yellow;">**Rare Pet Egg**</mark>    | <mark style="color:yellow;">**5.55%**</mark> |
+| <mark style="color:green;">**Class Booster (50%) (1hr)**</mark>           | <mark style="color:green;">**5.55%**</mark> |
+| <mark style="color:green;">**Knowledge Booster (50%) (1h)**</mark>                                                        | <mark style="color:green;">**5.55%**</mark>    |
+| <mark style="color:green;">**Random Spawner** | <mark style="color:green;">**5.55%**</mark>       |

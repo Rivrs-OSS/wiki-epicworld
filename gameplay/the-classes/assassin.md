@@ -1,5 +1,5 @@
 ---
-description: Find here all the information concerning the Assassin class.
+description: Find all of the information concerning the Assassin class here.
 ---
 
 # 🗡️ Assassin
@@ -10,7 +10,7 @@ The Assassin is a master of stealth and close-quarters combat. Using fast and pr
 
 ## <mark style="color:yellow;">Skills</mark>
 
-#### <mark style="color:yellow;">Level</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**1: Blade Strike**</mark> <a href="#niveau-1-coup-de-lame" id="niveau-1-coup-de-lame"></a>
+#### <mark style="color:yellow;">**Level 1: Blade Strike**</mark> <a href="#niveau-1-coup-de-lame" id="niveau-1-coup-de-lame"></a>
 
 Perform a slashing attack with your blade.
 
@@ -18,7 +18,7 @@ Perform a slashing attack with your blade.
 * <mark style="color:yellow;">**Mana**</mark> : 0
 * <mark style="color:yellow;">**Damage**</mark> : 9.2
 
-#### <mark style="color:yellow;">Level</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**5: Bloody Blade**</mark> <a href="#niveau-5-lame-sanglante" id="niveau-5-lame-sanglante"></a>
+#### <mark style="color:yellow;">**Level 5: Bloody Blade**</mark> <a href="#niveau-5-lame-sanglante" id="niveau-5-lame-sanglante"></a>
 
 Your attacks have a 15% chance to cause the target to bleed.
 
@@ -26,7 +26,7 @@ Your attacks have a 15% chance to cause the target to bleed.
 * <mark style="color:yellow;">**Mana**</mark> : 0
 * <mark style="color:yellow;">**Damage**</mark> : 4.5
 
-#### <mark style="color:yellow;">Level</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**10: Dash**</mark> <a href="#niveau-10-dash" id="niveau-10-dash"></a>
+#### <mark style="color:yellow;">**Level 10: Dash**</mark> <a href="#niveau-10-dash" id="niveau-10-dash"></a>
 
 Dash through your enemies and deal heavy damage throughout your move.
 
@@ -34,7 +34,7 @@ Dash through your enemies and deal heavy damage throughout your move.
 * <mark style="color:yellow;">**Mana**</mark> : 35
 * <mark style="color:yellow;">**Damage**</mark> : 5.75
 
-#### <mark style="color:yellow;">Level</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**15: Dagger Throw**</mark> <a href="#niveau-15-lancer-de-dague" id="niveau-15-lancer-de-dague"></a>
+#### <mark style="color:yellow;">**Level 15: Dagger Throw**</mark> <a href="#niveau-15-lancer-de-dague" id="niveau-15-lancer-de-dague"></a>
 
 Throw 3 daggers at your target.
 
@@ -42,7 +42,7 @@ Throw 3 daggers at your target.
 * <mark style="color:yellow;">**Mana**</mark> : 75
 * <mark style="color:yellow;">**Damage**</mark> : 25
 
-#### <mark style="color:yellow;">Level</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**20: Shadow Step**</mark> <a href="#niveau-20-pas-de-lombre" id="niveau-20-pas-de-lombre"></a>
+#### <mark style="color:yellow;">**Level 20: Shadow Step**</mark> <a href="#niveau-20-pas-de-lombre" id="niveau-20-pas-de-lombre"></a>
 
 Gain speed and invisibility for 5 seconds and deal massive bleed damage with your next basic attack. Invisibility disappears when you attack.
 
@@ -50,7 +50,7 @@ Gain speed and invisibility for 5 seconds and deal massive bleed damage with you
 * <mark style="color:yellow;">**Mana**</mark> : 100
 * <mark style="color:yellow;">**Damage**</mark> : 110
 
-#### <mark style="color:yellow;">Level</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**30: Blade Flurry**</mark> <a href="#niveau-30-deluge-de-lames" id="niveau-30-deluge-de-lames"></a>
+#### <mark style="color:yellow;">**Level 30: Blade Flurry**</mark> <a href="#niveau-30-deluge-de-lames" id="niveau-30-deluge-de-lames"></a>
 
 Perform a spinning attack with your blade.
 
@@ -58,7 +58,7 @@ Perform a spinning attack with your blade.
 * <mark style="color:yellow;">**Mana**</mark> : 50
 * <mark style="color:yellow;">**Damage**</mark> : 60
 
-#### <mark style="color:yellow;">Level</mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">**40: Blade Dance**</mark> <a href="#niveau-40-danse-de-lames" id="niveau-40-danse-de-lames"></a>
+#### <mark style="color:yellow;">**Level 40: Blade Dance**</mark> <a href="#niveau-40-danse-de-lames" id="niveau-40-danse-de-lames"></a>
 
 Teleport to different targets and slice them with your blade. This skill causes targets to bleed.
 
