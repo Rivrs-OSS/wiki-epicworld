@@ -61,24 +61,24 @@ The Cosmetic Crate Key can be obtained by purchasing it in the <mark style="colo
 
 | **Reward**                                                       | **Chance**                                   |
 | ---------------------------------------------------------------- | -------------------------------------------- |
-| <mark style="color:green;">**Egg Stick**</mark>                  | <mark style="color:green;">**5.55%**</mark>  |
-| <mark style="color:green;">**Carton**</mark>                     | <mark style="color:green;">**5.55%**</mark>  |
-| <mark style="color:green;">**Straw Hat**</mark>                  | <mark style="color:green;">**5.55%**</mark>  |
-| <mark style="color:yellow;">**Chicken wings**</mark>             | <mark style="color:yellow;">**5.55%**</mark> |
-| <mark style="color:yellow;">**Pirate Hat**</mark>                | <mark style="color:yellow;">**5.55%**</mark> |
-| <mark style="color:yellow;">**Chicken Hat**</mark>               | <mark style="color:yellow;">**5.55%**</mark> |
-| <mark style="color:yellow;">**Treasure Chest**</mark>            | <mark style="color:yellow;">**5.55%**</mark> |
-| <mark style="color:yellow;">**Cutlass**</mark>                   | <mark style="color:yellow;">**5.55%**</mark> |
-| <mark style="color:blue;">**Frost Shield**</mark>                | <mark style="color:blue;">**5.55%**</mark>   |
-| <mark style="color:blue;">**Medusa Hat**</mark>                  | <mark style="color:blue;">**5.55%**</mark>   |
-| <mark style="color:blue;">**Frosted Sword**</mark>               | <mark style="color:blue;">**5.55%**</mark>   |
-| <mark style="color:blue;">**Cybernetic Blade**</mark>            | <mark style="color:blue;">**5.55%**</mark>   |
-| <mark style="color:blue;">**Krampus Tail**</mark>                | <mark style="color:blue;">**5.55%**</mark>   |
-| <mark style="color:blue;">**Cybernetic Backpack Reactor**</mark> | <mark style="color:blue;">**5.55%**</mark>   |
-| <mark style="color:purple;">**Ghost King Shield**</mark>         | <mark style="color:purple;">**5.55%**</mark> |
-| <mark style="color:purple;">**Ghost King Crown**</mark>          | <mark style="color:purple;">**5.55%**</mark> |
-| <mark style="color:purple;">**Shadow Dragon Claws**</mark>       | <mark style="color:purple;">**5.55%**</mark> |
-| <mark style="color:purple;">**Cuckoo House**</mark>              | <mark style="color:purple;">**5.55%**</mark> |
+| <mark style="color:green;">**Watermelon Hat**</mark>                  | <mark style="color:green;">**5.55%**</mark>  |
+| <mark style="color:green;">**Coin Bag**</mark>                     | <mark style="color:green;">**5.55%**</mark>  |
+| <mark style="color:green;">**TV Head**</mark>                  | <mark style="color:green;">**5.55%**</mark>  |
+| <mark style="color:yellow;">**Bucket Hat**</mark>             | <mark style="color:yellow;">**5.55%**</mark> |
+| <mark style="color:yellow;">**Cowboy Hat**</mark>                | <mark style="color:yellow;">**5.55%**</mark> |
+| <mark style="color:yellow;">**Christmas Axe**</mark>               | <mark style="color:yellow;">**5.55%**</mark> |
+| <mark style="color:yellow;">**UFO Hat**</mark>            | <mark style="color:yellow;">**5.55%**</mark> |
+| <mark style="color:yellow;">**Christmas Stocking**</mark>                   | <mark style="color:yellow;">**5.55%**</mark> |
+| <mark style="color:blue;">**Malefic Chest**</mark>                | <mark style="color:blue;">**5.55%**</mark>   |
+| <mark style="color:blue;">**Hot Air Balloon**</mark>                  | <mark style="color:blue;">**5.55%**</mark>   |
+| <mark style="color:blue;">**Jellyfish**</mark>               | <mark style="color:blue;">**5.55%**</mark>   |
+| <mark style="color:blue;">**Shark**</mark>            | <mark style="color:blue;">**5.55%**</mark>   |
+| <mark style="color:blue;">**Krampus' Pitchfork**</mark>                | <mark style="color:blue;">**5.55%**</mark>   |
+| <mark style="color:blue;">**Cybernetic Visor**</mark> | <mark style="color:blue;">**5.55%**</mark>   |
+| <mark style="color:purple;">**Campaign Hat**</mark>         | <mark style="color:purple;">**5.55%**</mark> |
+| <mark style="color:purple;">**Tiki Mask**</mark>          | <mark style="color:purple;">**5.55%**</mark> |
+| <mark style="color:purple;">**Nutcracker Staff**</mark>       | <mark style="color:purple;">**5.55%**</mark> |
+| <mark style="color:purple;">**Phantom Scepter**</mark>              | <mark style="color:purple;">**5.55%**</mark> |
 
 ## <mark style="color:green;">Emerald Crate</mark>
 
