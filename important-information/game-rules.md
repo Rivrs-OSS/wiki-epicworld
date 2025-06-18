@@ -108,7 +108,7 @@ If you have any doubts about the use of your farm, please create a ticket. A far
 
 * **Regarding construction of worlds and cities:**
   * It is forbidden to create cities for the sole purpose of collecting chests, looting structures, etc.
-  * Any city can **be unclaimed after 30 days of inactivity** of the mayor or deputy.
+  * Any city can **be unclaimed after 60 days of inactivity** of the mayor or deputy.
 
 {% hint style="warning" %}
 If these rules are not respected, we will contact you and give you a deadline to modify or withdraw your structure. Once this deadline has expired, the structure will be destroyed.
@@ -122,9 +122,11 @@ It is forbidden to reveal information related to quests (NPC position, answer to
 * Machines causing lag, whether intentionally or not, are forbidden.
 * Factories without an on/off system to turn off your clock are not allowed.
 * Item sorters without a system to automatically destroy items (with lava) can be removed by staff.
+* The creation of Casinos under Minecraft Eula is not allowed. Any Casinos found will be removed and compensation of items will not be given.
 
 {% hint style="warning" %}
 If your system does not comply with server rules, it will be deleted without any possible refund.
+Please open a ticket if you are unsure so Staff can confirm
 {% endhint %}
 
 
